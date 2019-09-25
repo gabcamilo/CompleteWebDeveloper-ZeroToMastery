@@ -46,6 +46,12 @@ body{
     text-decoration: none;
 }
 
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 /*COVER*/
 .container{
     display: flex;
