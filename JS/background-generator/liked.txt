@@ -1,0 +1,1 @@
+linear-gradient(to right, rgb(186, 150, 239), rgb(47, 208, 119));
