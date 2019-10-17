@@ -50,5 +50,4 @@ console.log(obj);
 console.log(notAClone);
 console.log(clone1);
 console.log(clone2);
-console.log(superClone)
-
+console.log(superClone);
