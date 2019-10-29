@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/css/main.49a8d802.chunk.css",
-    "main.js": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/js/main.7e762a30.chunk.js",
-    "main.js.map": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/js/main.7e762a30.chunk.js.map",
-    "runtime-main.js": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/js/runtime-main.08d8a9a8.js",
-    "runtime-main.js.map": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/js/runtime-main.08d8a9a8.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.a09a1be0.chunk.js": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/js/2.a09a1be0.chunk.js",
-    "static/js/2.a09a1be0.chunk.js.map": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/js/2.a09a1be0.chunk.js.map",
-    "index.html": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/index.html",
-    "precache-manifest.75c868eee7dc42f569e186c01786d7d2.js": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/precache-manifest.75c868eee7dc42f569e186c01786d7d2.js",
-    "service-worker.js": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.49a8d802.chunk.css.map": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/css/main.49a8d802.chunk.css.map",
-    "static/media/App.css": "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/CompleteWebDeveloper-ZeroToMastery/static/css/main.d10518c9.chunk.css",
+    "main.js": "/CompleteWebDeveloper-ZeroToMastery/static/js/main.14e37777.chunk.js",
+    "main.js.map": "/CompleteWebDeveloper-ZeroToMastery/static/js/main.14e37777.chunk.js.map",
+    "runtime-main.js": "/CompleteWebDeveloper-ZeroToMastery/static/js/runtime-main.dc6b1bd9.js",
+    "runtime-main.js.map": "/CompleteWebDeveloper-ZeroToMastery/static/js/runtime-main.dc6b1bd9.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/CompleteWebDeveloper-ZeroToMastery/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a09a1be0.chunk.js": "/CompleteWebDeveloper-ZeroToMastery/static/js/2.a09a1be0.chunk.js",
+    "static/js/2.a09a1be0.chunk.js.map": "/CompleteWebDeveloper-ZeroToMastery/static/js/2.a09a1be0.chunk.js.map",
+    "index.html": "/CompleteWebDeveloper-ZeroToMastery/index.html",
+    "precache-manifest.05fbf586076678459185de7fb76388e4.js": "/CompleteWebDeveloper-ZeroToMastery/precache-manifest.05fbf586076678459185de7fb76388e4.js",
+    "service-worker.js": "/CompleteWebDeveloper-ZeroToMastery/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/CompleteWebDeveloper-ZeroToMastery/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d10518c9.chunk.css.map": "/CompleteWebDeveloper-ZeroToMastery/static/css/main.d10518c9.chunk.css.map",
+    "static/media/App.css": "/CompleteWebDeveloper-ZeroToMastery/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.08d8a9a8.js",
+    "static/js/runtime-main.dc6b1bd9.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.a09a1be0.chunk.js",
-    "static/css/main.49a8d802.chunk.css",
-    "static/js/main.7e762a30.chunk.js"
+    "static/css/main.d10518c9.chunk.css",
+    "static/js/main.14e37777.chunk.js"
   ]
 }
