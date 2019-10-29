@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/precache-manifest.f3cf3d8a1e3945d02824ca77d2233f88.js"
+  "/CompleteWebDeveloper-ZeroToMastery/React/robofriends/precache-manifest.75c868eee7dc42f569e186c01786d7d2.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/CompleteWebDeveloper-ZeroToMastery/React/robofriends/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
