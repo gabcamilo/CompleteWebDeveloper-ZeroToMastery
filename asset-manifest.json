@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/css/main.cb9200ae.chunk.css",
+    "main.js": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/js/main.319dcf23.chunk.js",
+    "main.js.map": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/js/main.319dcf23.chunk.js.map",
+    "runtime-main.js": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/js/runtime-main.196dceae.js",
+    "runtime-main.js.map": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/js/runtime-main.196dceae.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a09a1be0.chunk.js": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/js/2.a09a1be0.chunk.js",
+    "static/js/2.a09a1be0.chunk.js.map": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/js/2.a09a1be0.chunk.js.map",
+    "index.html": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/index.html",
+    "precache-manifest.f3cf3d8a1e3945d02824ca77d2233f88.js": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/precache-manifest.f3cf3d8a1e3945d02824ca77d2233f88.js",
+    "service-worker.js": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.cb9200ae.chunk.css.map": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/css/main.cb9200ae.chunk.css.map",
+    "static/media/App.css": "/CompleteWebDeveloper-ZeroToMastery/tree/master/React/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.196dceae.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a09a1be0.chunk.js",
+    "static/css/main.cb9200ae.chunk.css",
+    "static/js/main.319dcf23.chunk.js"
+  ]
+}
